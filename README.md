@@ -50,7 +50,7 @@ export default myDevelopmentSkills = () => ({
 
       'Web Hosting': ['AWS', 'Heroku'],
 
-      Architectures: ['RESTFul', 'WebSocket', 'Microservices'],
+      Architectures: ['RESTFul', 'WebSocket', 'Monolithic', 'Microservices'],
     },
   },
 });
