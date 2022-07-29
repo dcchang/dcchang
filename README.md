@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-I am a software engineer working towards a career in computational biology. I studied biomedical engineering at the University of Michigan, and since graduating, I have been developing machine learning models for antibiotic drug combination screening. I am also building an investing web application for people to share market sentiment and learn about the stock market.
+I am a full-stack software engineer currently working at Moderna on internal web apps supporting preclinical operations. I studied biomedical engineering at the University of Michigan, and since graduating, I have been developing machine learning models for antibiotic drug combination screening. I am also building an investing web application for people to share market sentiment and learn about the stock market.
 
 I aim to continue to apply myself towards data science problems in biology and medicine, and to develop the computational skills and foundations needed for a successful career as a machine learning engineer. I am also continuing to improve my skills in full-stack web development.
 
