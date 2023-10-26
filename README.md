@@ -24,9 +24,9 @@ export default myDevelopmentSkills = () => ({
     },
 
     Frontend: {
-      'Web Standards': ['HTML5', 'CSS3', 'JavaScript'],
+      'Web Standards': ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
 
-      'Javascript Frameworks': ['React.js', 'Next.js'],
+      'Javascript Frameworks': ['Anuglar', 'Angular.js', 'React.js', 'Next.js'],
 
       'CSS-in-JS': ['@emotion/react', '@emotion/styled'],
 
@@ -43,7 +43,8 @@ export default myDevelopmentSkills = () => ({
       Websocket: ['ws', 'socket.io'],
 
       Databases: {
-        NoSQL: ['Firebase', 'Redis'],
+        NoSQL: ['Firebase', 'MongoDB', 'Redis'],
+        relational: ['PostgreSQL'],
       },
 
       DevOps: ['Git', 'AWS CodeDeploy', 'CI/CD'],
